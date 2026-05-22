@@ -31,6 +31,7 @@ I combine **mathematical logic + engineering best practices** to design:
 ### ⚡ Programming & Backend Development
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white"/>
@@ -39,6 +40,7 @@ I combine **mathematical logic + engineering best practices** to design:
   <img src="https://img.shields.io/badge/Julia-9558B2?logo=julia&logoColor=white"/>
   <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white"/>
 </p>
+
 
 ---
 
