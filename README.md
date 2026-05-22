@@ -2,32 +2,33 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/Role-Computational%20Scientist-blue" />
-  <img src="https://img.shields.io/badge/Focus-Software%20Engineering%20%7C%20QA%20Automation-blueviolet" />
-  <img src="https://img.shields.io/badge/Location-Lima%2C%20Peru-ff69b4" />
+  <img src="https://img.shields.io/badge/Focus-QA%20Automation%20%7C%20Backend-important" />
+  <img src="https://img.shields.io/badge/Location-Lima%2C%20Peru-success" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I'm a **Computational Scientist** from **Universidad Nacional Mayor de San Marcos (UNMSM)**, specialized in:
+I am a **Computational Scientist** from **Universidad Nacional Mayor de San Marcos (UNMSM)** specialized in:
 
-- 💻 Software Engineering
-- 🤖 Advanced Test Automation
-- ⚙️ Backend Development
+- 💻 Software Engineering  
+- 🤖 Advanced Test Automation  
+- ⚙️ Backend Development  
 
-I engineer **scalable, high-concurrency systems** and design **robust automation frameworks**, mainly focused on the **banking & financial sector**.
+I combine **mathematical logic + engineering best practices** to design:
 
-🔍 My approach combines:
-- Mathematical logic
-- Clean architectures (POM, layered, microservices)
-- Performance & reliability testing
+✅ Scalable systems  
+✅ High-concurrency architectures  
+✅ Enterprise-grade automation frameworks  
+
+🎯 Focus: **Banking & Financial Systems**
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Skills
 
-### ⚡ Programming & Backend
+### ⚡ Programming & Backend Development
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
@@ -41,7 +42,7 @@ I engineer **scalable, high-concurrency systems** and design **robust automation
 
 ---
 
-### 🤖 Automation & Performance Testing
+### 🤖 Automation, Performance & APIs
 <p>
   <img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cucumber-23D96C?logo=cucumber&logoColor=white"/>
@@ -52,7 +53,7 @@ I engineer **scalable, high-concurrency systems** and design **robust automation
 
 ---
 
-### ⚙️ DevOps, Cloud & AI
+### ⚙️ DevOps, Cloud & AI Ecosystem
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white"/>
@@ -64,42 +65,66 @@ I engineer **scalable, high-concurrency systems** and design **robust automation
 
 ---
 
-## 📜 Certifications
+## 📜 All Certifications & Credentials
 
-- ✅ Scrum Master Certified – CertiProf  
-- ✅ Java Web Developer & Core Fundamentals – Galaxy Training  
-- ✅ GenAI Academy: Yellow Belt – NTT DATA  
-- ✅ Software QA & Automation Tester – Galaxy Training  
-- ✅ Performance Testing (JMeter, Postman & SoapUI) – Galaxy Training  
-- ✅ Python for Analytics – Data Analytics Center  
-- ✅ SQL Server (Intermediate) – UNMSM  
-- ✅ Advanced English – Instituto Loscher  
+### 💻 Software Engineering & Test Automation
+- PROGRAMA QA SOFTWARE AUTOMATION TESTER – Galaxy Training  
+- JAVA 24 WEB DEVELOPER – Galaxy Training  
+- JAVA CORE FUNDAMENTALS – Galaxy Training  
+- RESTFUL APIs (Postman & Bruno) – Galaxy Training  
+- WEB APPLICATION & Angular – Galaxy Training  
+- TEST AUTOMATION (Selenium WebDriver & Grid)  
+- SELENIUM & CUCUMBER BDD  
+- PERFORMANCE TESTING (JMeter, Postman, SoapUI)  
+- Python 3.11 – Skill  
+
+---
+
+### 🧠 Artificial Intelligence & Data
+- GenAI Yellow Belt (Developer & Engineer) – NTT DATA  
+- GenAI White Belt – NTT DATA  
+- AI Development & Security – BIG School  
+- Machine Learning Fundamentals – Rocca  
+- Python for Analytics – Data Analytics Center  
+- SQL Server Intermediate – UNMSM  
+- Power BI – Instituto Peruano de Negocios  
+- Excel Expert (VBA & Macros) – UNMSM  
+
+---
+
+### 👥 Agile & Professional Skills
+- Scrum Master Certified (SMC) – CertiProf  
+- Scrum Fundamentals Certified  
+- Lifelong Learning – CertiProf  
+- Advanced English – Loscher  
+- VBA Programming – Skill  
+- Advanced Office Tools – UNMSM  
+
+---
+
+## 🔥 What I Bring
+
+✔️ End-to-end automation frameworks (**Selenium + TestNG / Cucumber**)  
+✔️ High-performance testing using **JMeter for enterprise systems**  
+✔️ Backend APIs (**Spring Boot / FastAPI**)  
+✔️ CI/CD pipelines (**GitHub Actions, Docker**)  
+✔️ Banking-grade systems: **security, scalability & reliability**
 
 ---
 
 ## 📈 GitHub Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VicHZR&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VicHZR&layout=compact&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VicHZR&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VicHZR&layout=compact&theme=tokyonight" width="48%"/>
 </p>
 
 ---
 
-## 🔥 What I Bring
-
-✔️ Design of **end-to-end automation frameworks (Selenium + TestNG / Cucumber)**  
-✔️ Performance testing with **JMeter for high-load systems**  
-✔️ Backend APIs with **Spring Boot / FastAPI**  
-✔️ CI/CD pipelines with **GitHub Actions & Docker**  
-✔️ Strong focus on **banking-grade reliability & security**
-
----
-
-## 🔗 Connect With Me
+## 🔗 Connect with me
 
 <p align="left">
   <a href="https://linkedin.com/in/TU-LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"/>
   </a>
 </p>
