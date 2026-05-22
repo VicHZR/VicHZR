@@ -106,7 +106,7 @@ I combine **mathematical logic + engineering best practices** to design:
 
 ✔️ End-to-end automation frameworks (**Selenium + TestNG / Cucumber**)  
 ✔️ High-performance testing using **JMeter for enterprise systems**  
-✔️ Backend APIs (**Spring Boot / FastAPI**)  
+✔️ Backend APIs (**Spring Boot / FastAPI / Node.js**)  
 ✔️ CI/CD pipelines (**GitHub Actions, Docker**)  
 ✔️ Banking-grade systems: **security, scalability & reliability**
 
@@ -115,8 +115,8 @@ I combine **mathematical logic + engineering best practices** to design:
 ## 📈 GitHub Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VicHZR&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VicHZR&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://shion.dev" width="48%" />
+  <img src="https://shion.dev" width="48%" />
 </p>
 
 ---
