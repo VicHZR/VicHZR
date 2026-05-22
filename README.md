@@ -112,19 +112,10 @@ I combine **mathematical logic + engineering best practices** to design:
 
 ---
 
-## 📈 GitHub Metrics
-
-<p align="center">
-  <img src="https://shion.dev" width="48%" />
-  <img src="https://shion.dev" width="48%" />
-</p>
-
----
-
 ## 🔗 Connect with me
 
 <p align="left">
-  <a href="https://linkedin.com/in/TU-LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/victor-h-guzm%C3%A1n-a19361187/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"/>
   </a>
 </p>
