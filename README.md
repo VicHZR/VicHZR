@@ -2,7 +2,7 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/Role-Computational%20Scientist-blue" />
-  <img src="https://img.shields.io/badge/Focus-QA%20Automation%20%7C%20Backend-important" />
+  <img src="https://img.shields.io/badge/Focus-QA%20Automation%20%7C%20Backend-blueviolet" />
   <img src="https://img.shields.io/badge/Location-Lima%2C%20Peru-success" />
 </p>
 
